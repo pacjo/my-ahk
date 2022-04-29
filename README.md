@@ -1,2 +1,6 @@
-# my-ahk
-Collection of AutoHotKey scripts I find useful
+# My AHK scripts
+
+### It's a mess
+
+> AutoHotKey is simultaneously the best and worst thing I have ever used</br>
+> \- me, 2022 
