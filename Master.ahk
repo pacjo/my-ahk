@@ -124,6 +124,11 @@ return
 F8::        ;Reloads AutoHotKey
   Reload
 return
+!F1::       ;Temporarily suspends script
+  Suspend
+  Sleep, 2000
+  Suspend
+return
 
 ; due to AHK limitations this SHOULD BE at the end of the script
 #include advanced_alt-tab.ahk
