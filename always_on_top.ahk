@@ -1,1 +1,1 @@
-﻿^SPACE::  Winset, Alwaysontop, -1, A
+﻿^SPACE::WinSetAlwaysOnTop -1, "A"
